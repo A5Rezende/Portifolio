@@ -1,0 +1,29 @@
+.myphoto {
+    width: 60%;
+    height: 100%;
+    border-radius: 1000px;
+}
+
+.About {
+    margin: 10px;
+    border: solid #00a8e8 4px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.Skills ul {
+    padding: 0px 10px 0px 18px;
+    margin-left: 18px;
+    border-left: solid #00a8e8 4px;
+}
+
+.Services .col {
+    margin: 10px;
+    padding: 10px;
+    border: solid #00a8e8 4px;
+    border-radius: 30px;
+}
+
+.Services ul {
+    padding-left: 0px;
+}
