@@ -1,0 +1,38 @@
+body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: white;
+    padding-top: 70px;
+    background-color: #212529;
+}
+
+main {
+    background-image: url("../images/hello-world.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.col-6 {
+    padding: 0;
+}
+
+.border {
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.card-skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-skill {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
